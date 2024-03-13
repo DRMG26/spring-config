@@ -1,0 +1,14 @@
+# Property to be read from code
+build:
+  version: "v3.0"
+
+
+#@configuracion Propiedades
+contact:
+  message: "Bank System - Loans API"
+  details:
+    name: "Daniel Mesa - developer"
+    email: "mesadr@globalhits.com"
+  phone-numbers:
+    - "(57) 321-505-9562"
+    - "(57) 321-505-9563"
