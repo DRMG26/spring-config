@@ -1,0 +1,14 @@
+# Property to be read from code
+build:
+  version: "v2.0"
+
+
+#@configuracion Propiedades
+contact:
+  message: "Bank System - Accounts API"
+  details:
+    name: "Milena Garcia -QA Lead"
+    email: "garciama@globalhits.com"
+  phone-numbers:
+    - "(57) 321-505-9562"
+    - "(57) 321-505-9563"
