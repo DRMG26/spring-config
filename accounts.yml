@@ -5,9 +5,9 @@ build:
 
 #@configuracion Propiedades
 contact:
-  message: "Bank System - Accounts API hola"
+  message: "Bank System - Accounts API"
   details:
-    name: "Daniel Mesa - developer"
+    name: "Ricardo Garcia - developer"
     email: "mesadr@globalhits.com"
   phone-numbers:
     - "(57) 321-505-9562"
