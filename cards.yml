@@ -5,7 +5,7 @@ build:
 
 #@configuracion Propiedades
 contact:
-  message: "Bank System - Cards API rabbitmq"
+  message: "Bank System - Cards API /// rabbitmq"
   details:
     name: "Daniel Mesa - developer"
     email: "mesadr@globalhits.com"
