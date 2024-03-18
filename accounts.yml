@@ -5,7 +5,7 @@ build:
 
 #@configuracion Propiedades
 contact:
-  message: "Bank System - Accounts API"
+  message: "Bank System - Accounts API hola"
   details:
     name: "Daniel Mesa - developer"
     email: "mesadr@globalhits.com"
